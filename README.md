@@ -4,6 +4,7 @@ A pegasus-unicorn-changeling hybrid living on the edge of Ponyville. A rebelliou
 ### Attributes
 * 8+ years of experience with JavaScript.
   * Comfortable with Deno and Bun, and can work with Node.js.
+  * Most comfortable with the equivalent of Chromium 59+ and Firefox 65+, but can write JavaScript for Internet Explorer 4.4+, Chromium 5+ or 49+ and Firefox 29+ or 52+.
 * Writes Bash/PDKSH scripts.
 * New to Go and Rust. Still learning both.
 * (Almost) polyglot.
