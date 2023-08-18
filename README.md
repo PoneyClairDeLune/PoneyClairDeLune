@@ -6,7 +6,7 @@ A pegasus-unicorn-changeling hybrid living on the edge of Ponyville. A rebelliou
   * Comfortable with Deno and Bun, and can work with Node.js.
   * Most comfortable with the equivalent of Chromium 59+ and Firefox 65+, but can write JavaScript for Internet Explorer 4.4+, Chromium 5+ or 49+ and Firefox 29+ or 52+.
 * Writes Bash/PDKSH scripts.
-* New to Go and Rust. Still learning both.
+* Familiar with both MarkDown and MediaWiki syntax.
 * (Almost) polyglot.
 * Some experiences with MIDI and legacy synth modules dating back to the 1990s.
 * Available for hire for both IT-related work and translation/localization-related work. Contact me for full lingual capabilities.
@@ -25,6 +25,9 @@ A pegasus-unicorn-changeling hybrid living on the edge of Ponyville. A rebelliou
 * [Silk](https://github.com/ltgcgo/silk): Fediverse timeline aggregator for communities.
 * [Minuette](https://github.com/ltgcgo/minuette): Manifest v2 cross-browser extension for advanced JS behaviour manipulation.
 * [Bromite Block PoC](https://github.com/PoneyClairDeLune/bromite-block): Cheap server-side detection of wrongly-configured privacy browsers.
+
+### Skills
+[![My Skills](https://skillicons.dev/icons?i=atom,cloudflare,workers,docker,fediverse,git,github,githubactions,gitlab,linux,bash,md,html,css,js,deno,nodejs,alpinejs,grafana,prometheus,ps,c,rust,go)](https://skillicons.dev)
 
 ### GitHub stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PoneyClairDeLune&show_icons=true&theme=radical)
