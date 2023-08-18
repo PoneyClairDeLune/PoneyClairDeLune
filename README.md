@@ -2,11 +2,14 @@
 A pegasus-unicorn-changeling hybrid living on the edge of Ponyville. A rebellious programmer who prefers defying precedences.
 
 ### Attributes
-* 8+ years of experience with JavaScript. Comfortable with Deno and Bun, and can work with Node.js.
+* 8+ years of experience with JavaScript.
+  * Comfortable with Deno and Bun, and can work with Node.js.
+* Writes Bash/PDKSH scripts.
 * New to Go and Rust. Still learning both.
 * (Almost) polyglot.
-* Some experiences with MIDI and legacy synth modules dating back to the 90s.
+* Some experiences with MIDI and legacy synth modules dating back to the 1990s.
 * Available for hire for both IT-related work and translation/localization-related work. Contact me for full lingual capabilities.
+  * Remote job offers only before I can ensure my own safety.
 
 ### Notable contributions
 * [Rethink](https://github.com/celzero/rethink-app): As the translation lead.
