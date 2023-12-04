@@ -5,7 +5,10 @@ A pegasus-unicorn-changeling hybrid living on the edge of Ponyville. A rebelliou
 * 8+ years of experience with JavaScript.
   * Comfortable with Deno and Bun, and can work with Node.js.
   * Most comfortable with the equivalent of Chromium 59+ and Firefox 65+, but can write JavaScript for Internet Explorer 4.4+, Chromium 5+ or 49+ and Firefox 29+ or 52+.
-* Writes Bash/PDKSH scripts.
+* Writes Bash/ZSH scripts.
+* Have experiences in managing Linux servers.
+  * Can manage Debian, openSUSE (SUSE Enterprise Linux) and Rocky Linux (Red Hat Enterprise Linux) servers.
+  * Most comfortable with Debian with over 4 years of experience.
 * Familiar with both MarkDown and MediaWiki syntax.
 * (Almost) polyglot.
 * Some experiences with MIDI and legacy synth modules dating back to the 1990s.
