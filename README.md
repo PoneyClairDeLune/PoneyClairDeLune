@@ -30,7 +30,7 @@ A pegasus-unicorn-changeling hybrid living on the edge of Ponyville. A rebelliou
 * [Bromite Block PoC](https://github.com/PoneyClairDeLune/bromite-block): Cheap server-side detection of wrongly-configured privacy browsers.
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=atom,cloudflare,workers,docker,fediverse,git,github,githubactions,gitlab,linux,bash,md,html,css,js,deno,nodejs,alpinejs,grafana,prometheus,ps,c,rust,go)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,md,html,css,js,deno,bun,nodejs,alpinejs,go,cs,java,c,rust,dart,linux,debian,atom,cloudflare,workers,docker,fediverse,git,github,githubactions,grafana,prometheus,ps,ai,ipfs,godot,unity)](https://skillicons.dev)
 
 ### GitHub stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PoneyClairDeLune&show_icons=true&theme=radical)
