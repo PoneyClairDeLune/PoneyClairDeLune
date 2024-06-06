@@ -2,7 +2,7 @@
 A pegasus-unicorn-changeling hybrid living on the edge of Ponyville. A rebellious programmer who prefers defying precedences.
 
 ### Attributes
-* 8+ years of experience with JavaScript.
+* Over a decade of experience with JavaScript.
   * Comfortable with Deno and Bun, and can work with Node.js.
   * Most comfortable with the equivalent of Chromium 59+ and Firefox 65+, but can write JavaScript for Internet Explorer 4.4+, Chromium 5+ or 49+ and Firefox 29+ or 52+.
 * Writes Bash/ZSH scripts.
@@ -10,7 +10,6 @@ A pegasus-unicorn-changeling hybrid living on the edge of Ponyville. A rebelliou
   * Can manage Debian, openSUSE (SUSE Enterprise Linux) and Rocky Linux (Red Hat Enterprise Linux) servers.
   * Most comfortable with Debian with over 4 years of experience.
 * Familiar with both MarkDown and MediaWiki syntax.
-* (Almost) polyglot.
 * Some experiences with MIDI and legacy synth modules dating back to the 1990s.
 * Available for hire for both IT-related work and translation/localization-related work. Contact me for full lingual capabilities.
   * Remote job offers only before I can ensure my own safety.
@@ -30,7 +29,7 @@ A pegasus-unicorn-changeling hybrid living on the edge of Ponyville. A rebelliou
 * [Bromite Block PoC](https://github.com/PoneyClairDeLune/bromite-block): Cheap server-side detection of wrongly-configured privacy browsers.
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=bash,md,html,css,js,deno,bun,nodejs,alpinejs,go,cs,java,c,rust,dart,linux,debian,atom,cloudflare,workers,docker,fediverse,git,github,githubactions,grafana,prometheus,ps,ai,ipfs,godot,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,md,html,css,js,deno,bun,nodejs,alpinejs,go,cs,java,c,rust,dart,linux,debian,atom,cloudflare,workers,docker,fediverse,git,github,githubactions,grafana,prometheus,ps,ai,ipfs,godot)](https://skillicons.dev)
 
 ### GitHub stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PoneyClairDeLune&show_icons=true&theme=radical)
