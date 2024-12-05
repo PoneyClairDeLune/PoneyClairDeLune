@@ -8,11 +8,11 @@ A pegasus-unicorn-changeling hybrid living on the edge of Ponyville. A rebelliou
 * Writes Bash/ZSH scripts.
 * Have experiences in managing Linux servers.
   * Can manage Debian, openSUSE (SUSE Enterprise Linux) and Rocky Linux (Red Hat Enterprise Linux) servers.
-  * Most comfortable with Debian with over 4 years of experience.
+  * Most comfortable with Debian with over 5 years of experience.
 * Familiar with both MarkDown and MediaWiki syntax.
 * Some experiences with MIDI and legacy synth modules dating back to the 1990s.
 * Available for hire for both IT-related work and translation/localization-related work. Contact me for full lingual capabilities.
-  * Remote job offers only before I can ensure my own safety.
+  * Remote job offers and XMR/LTC payments only before I can ensure my own safety.
 
 ### Notable contributions
 * [Rethink](https://github.com/celzero/rethink-app): As the translation lead.
@@ -29,8 +29,12 @@ A pegasus-unicorn-changeling hybrid living on the edge of Ponyville. A rebelliou
 * [Bromite Block PoC](https://github.com/PoneyClairDeLune/bromite-block): Cheap server-side detection of wrongly-configured privacy browsers.
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=bash,md,html,css,js,deno,bun,nodejs,alpinejs,go,cs,java,c,rust,dart,linux,debian,atom,cloudflare,workers,docker,fediverse,git,github,githubactions,grafana,prometheus,ps,ai,ipfs,godot)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,md,html,css,js,deno,bun,nodejs,alpinejs,go,cs,java,c,rust,linux,debian,atom,cloudflare,workers,docker,fediverse,git,github,githubactions,grafana,prometheus,ps,ai,ipfs,godot)](https://skillicons.dev)
 
 ### GitHub stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PoneyClairDeLune&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PoneyClairDeLune&layout=compact)
+
+### Contact
+- Email: [`ble-m@ltgc.cc`](mailto:ble-m@ltgc.cc) (replies will originate from another address)
+- Fediverse: [`@lumiere@hooves.social`](https://hooves.social/@lumiere)
